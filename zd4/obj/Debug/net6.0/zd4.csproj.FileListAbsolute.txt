@@ -1,0 +1,15 @@
+C:\Users\marin\Desktop\dz8\zd4\bin\Debug\net6.0\zd4.exe
+C:\Users\marin\Desktop\dz8\zd4\bin\Debug\net6.0\zd4.deps.json
+C:\Users\marin\Desktop\dz8\zd4\bin\Debug\net6.0\zd4.runtimeconfig.json
+C:\Users\marin\Desktop\dz8\zd4\bin\Debug\net6.0\zd4.dll
+C:\Users\marin\Desktop\dz8\zd4\bin\Debug\net6.0\zd4.pdb
+C:\Users\marin\Desktop\dz8\zd4\obj\Debug\net6.0\zd4.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\dz8\zd4\obj\Debug\net6.0\zd4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\dz8\zd4\obj\Debug\net6.0\zd4.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\dz8\zd4\obj\Debug\net6.0\zd4.AssemblyInfo.cs
+C:\Users\marin\Desktop\dz8\zd4\obj\Debug\net6.0\zd4.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\dz8\zd4\obj\Debug\net6.0\zd4.dll
+C:\Users\marin\Desktop\dz8\zd4\obj\Debug\net6.0\refint\zd4.dll
+C:\Users\marin\Desktop\dz8\zd4\obj\Debug\net6.0\zd4.pdb
+C:\Users\marin\Desktop\dz8\zd4\obj\Debug\net6.0\zd4.genruntimeconfig.cache
+C:\Users\marin\Desktop\dz8\zd4\obj\Debug\net6.0\ref\zd4.dll
